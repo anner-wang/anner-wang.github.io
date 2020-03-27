@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anner的个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-27T08:04:01.522Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Anner</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，欢迎来到这里</title>
+    <link href="http://yoursite.com/2020/03/27/hello/"/>
+    <id>http://yoursite.com/2020/03/27/hello/</id>
+    <published>2020-03-26T16:00:00.000Z</published>
+    <updated>2020-03-27T08:04:01.522Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;你好，我结束的学生时代&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随记" scheme="http://yoursite.com/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
+      <category term="文字" scheme="http://yoursite.com/tags/%E6%96%87%E5%AD%97/"/>
+    
+  </entry>
+  
+</feed>
