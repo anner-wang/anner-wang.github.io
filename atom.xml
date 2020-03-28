@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.anner.fun/"/>
-  <updated>2020-03-27T08:04:01.522Z</updated>
+  <updated>2020-03-28T12:31:34.265Z</updated>
   <id>http://www.anner.fun/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好，欢迎来到这里</title>
+    <title>苦难和沉重才是人生的常态</title>
     <link href="http://www.anner.fun/2020/03/27/hello/"/>
     <id>http://www.anner.fun/2020/03/27/hello/</id>
     <published>2020-03-26T16:00:00.000Z</published>
-    <updated>2020-03-27T08:04:01.522Z</updated>
+    <updated>2020-03-28T12:31:34.265Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,8 @@
       
         
         
-          &lt;p&gt;你好，我结束的学生时代&lt;/p&gt;
-
+          &lt;blockquote&gt;
+&lt;p&gt;我不能这样生活了。我必须从自己编织的罗网中解脱出来。当然，我绝非圣人。我几十年在饥寒、失误、挫折和自我折磨的漫长历程中，苦苦追寻一种目标，任何有限度的成功对我都至关重要。我为自己牛马般的劳动得到某种回报而感到人生的温馨。我不拒绝鲜花和红地毯。但是，
         
       
     
@@ -39,8 +39,6 @@
     
     
       <category term="随记" scheme="http://www.anner.fun/tags/%E9%9A%8F%E8%AE%B0/"/>
-    
-      <category term="文字" scheme="http://www.anner.fun/tags/%E6%96%87%E5%AD%97/"/>
     
   </entry>
   
